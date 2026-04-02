@@ -6,4 +6,3 @@
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-https://colab.research.google.com/notebooks/intro.ipynb
