@@ -15,4 +15,4 @@ https://colab.research.google.com/gist/arbainakai-code/3d2a7371778a4646566ba5c2d
 - operasi matriks
   
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
-https://colab.research.google.com/gist/arbainakai-code/de4961474a930a6496130930600e0c37/welcome-to-colab.ipynb#scrollTo=wZpaXS__gvE6
+https://colab.research.google.com/gist/arbainakai-code/de4961474a930a6496130930600e0c37/welcome-to-colab.ipynb#scrollTo=H4v8t-wTi5rq
